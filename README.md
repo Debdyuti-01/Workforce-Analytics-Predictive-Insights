@@ -1,6 +1,6 @@
 # Workforce Analytics Predictive Insights
 Workforce Analytics: Predictive Insights" is a data-driven project focused on forecasting workforce dynamics. Leveraging advanced analytics techniques, it predicts employee attrition and performance factors, providing valuable insights for strategic decision-making and talent management
-
+<img src = "https://cdn.imgbin.com/17/4/3/imgbin-workforce-management-human-resource-management-system-business-A9TafFFZWaszMtP2zRQSt1fZX.jpg">
 ### Workforce Analytics
 Workforce analytics is like having a magnifying glass for understanding your organization's people dynamics. It involves diving into Human Resource (HR) data to enhance workforce performance. Think of it as a talent radar, where HR data is examined closely and linked to organizational goals, showing how HR strategies impact overall success
 
@@ -9,10 +9,6 @@ Workforce attrition is all about how many people leave a company and why. We're 
 
 ### Motivation
 The project aims to boost employee satisfaction, cut costs, improve performance, and foster a positive workplace culture. Using data and analytics, it's an opportunity to make meaningful changes benefiting both employees and the organization.
-
-### System Architecture
-
-<div align="center"> <img src="https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction/blob/main/IMAGES/File-5-System-Architecture-Diagram.jpeg" alt="System Architecture"> </div>
 
 #### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
 ```
