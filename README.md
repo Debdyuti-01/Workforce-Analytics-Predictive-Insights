@@ -2,7 +2,7 @@
 Workforce Analytics: Predictive Insights" is a data-driven project focused on forecasting workforce dynamics. Leveraging advanced analytics techniques, it predicts employee attrition and performance factors, providing valuable insights for strategic decision-making and talent management
 
 <p align="center">
-<img src="https://img.freepik.com/premium-vector/your-personal-data-analytics-illustration-data-analyse-financial-growth-white-template_541075-1575.jpg?size=626&ext=jpg" width="500" height="400">
+<img src="https://img.freepik.com/premium-vector/your-personal-data-analytics-illustration-data-analyse-financial-growth-white-template_541075-1575.jpg?size=626&ext=jpg" width="500" height="300">
 
 ### Workforce Analytics
 Workforce analytics is like having a magnifying glass for understanding your organization's people dynamics. It involves diving into Human Resource (HR) data to enhance workforce performance. Think of it as a talent radar, where HR data is examined closely and linked to organizational goals, showing how HR strategies impact overall success
